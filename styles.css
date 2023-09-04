@@ -1,0 +1,107 @@
+.card{
+
+    width: 500px;
+
+    border: solid black;
+
+    border-radius: 8px;
+
+    padding: 10px;
+
+    text-align: start;
+
+    color: brown;
+
+    margin: 12px;
+
+}
+
+ 
+
+.card:hover{
+
+    color:rgb(0, 0, 0) ;
+
+    border: solid gold;
+
+    background-color: rgba(122, 122, 122, 0.253);
+
+}
+
+ 
+
+label[for="actividad"] {
+
+    font-size: 18px; /* Cambiar el tamaño del texto */
+
+    color: blue;     /* Cambiar el color del texto a azul */
+
+    font-weight: 600;
+
+    margin: 10px;
+
+  }
+
+ 
+
+  #enviar{
+
+    width: 80px;
+
+    margin-top: 20px;
+
+  }
+
+  #enviar{
+
+    width: 80px;
+
+    margin-top: 20px;
+
+  }
+
+ 
+
+  label[for="descripcion"] {
+
+    font-size: 18px; /* Cambiar el tamaño del texto */
+
+    color: blue;     /* Cambiar el color del texto a azul */
+
+    font-weight: 600;
+
+    margin: 10px;
+
+  }
+
+ 
+
+  .contain{
+
+    margin: 20px;
+
+  }
+
+ 
+
+  #descripcion{
+
+    border-radius: 8px;
+
+    width: 200px;
+
+    height: 20px;
+
+  }
+
+ 
+
+  #actividad{
+
+    border-radius: 8px;
+
+    width: 200px;
+
+    height: 20px;
+
+  }
